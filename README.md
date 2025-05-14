@@ -86,6 +86,29 @@ This is a full-stack **User Management Dashboard** developed for **Nykaa**, buil
    ![Screenshot 2025-05-14 195614](https://github.com/user-attachments/assets/4fabde2e-e36e-4974-9341-b3918ca463b1)
 
 
+# Why These Tools?:
+ - Why FastAPI?
+   - Fast, modern, async-ready API development
+   - Built-in Swagger documentation
+   - Easy JWT integration and schema validation
+     
+ - Why Streamlit?
+   - Quick prototyping and deployment
+   - Simplified UI without the need for HTML/CSS/JS
+   - Perfect for dashboard-based apps
+   
+ - Alternatives:
+   - Frontend: React.js + Flask API (more scalable but more complex)
+   - Backend: Django REST Framework (heavier, more suitable for larger projects)
+
+# Future Improvements
+ - Integrate PostgreSQL or MongoDB for production
+ - Dockerize app for containerized deployment
+ - Add role-based access (admin/user)
+ - Add email verification and password recovery
+
+# Credits
+- Developed by Mallipeddi Chandrahas
 
 
 
