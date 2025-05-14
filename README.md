@@ -75,13 +75,19 @@ This is a full-stack **User Management Dashboard** developed for **Nykaa**, buil
 # Demo Screenshots
 
 1. Login Screen:
-   "D:\DataAnalysisProject\env\fastapi_app\env.local\Screenshot 2025-05-14 195339.png"
+   ![Screenshot 2025-05-14 195339](https://github.com/user-attachments/assets/73dc00ce-b647-4923-80c2-b2e51b1b0d7d)
+
 
 2. User Management:
-   "D:\DataAnalysisProject\env\fastapi_app\env.local\Screenshot 2025-05-14 195545.png"
+   ![Screenshot 2025-05-14 195545](https://github.com/user-attachments/assets/f0e1b625-587e-42d8-bc37-8f4711bb3aca)
+
 
 3. User Statistics:
-   "D:\DataAnalysisProject\env\fastapi_app\env.local\Screenshot 2025-05-14 195614.png"
+   ![Screenshot 2025-05-14 195614](https://github.com/user-attachments/assets/4fabde2e-e36e-4974-9341-b3918ca463b1)
+
+
+
+
 
    
 
