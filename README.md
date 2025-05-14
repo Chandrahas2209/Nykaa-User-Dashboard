@@ -40,15 +40,15 @@ This is a full-stack **User Management Dashboard** developed for **Nykaa**, buil
 ---
 
 # Project Structure
-├── backend/
-│ ├── main.py # FastAPI application with auth & CRUD
-│ ├── models.py # Pydantic models
-│ ├── database.py # SQLite database setup
-│ └── utils.py # JWT helper functions
-├── frontend/
-│ └── app.py # Streamlit dashboard
-├── README.md
-└── requirements.txt
+- ├── backend/
+- │ ├── main.py # FastAPI application with auth & CRUD
+- │ ├── models.py # Pydantic models
+- │ ├── database.py # SQLite database setup
+- │ └── utils.py # JWT helper functions
+- ├── frontend/
+- │ └── app.py # Streamlit dashboard
+- ├── README.md
+- └── requirements.txt
 
 # Installation & Setup
 
@@ -57,25 +57,32 @@ This is a full-stack **User Management Dashboard** developed for **Nykaa**, buil
    git clone https://github.com/your-username/nykaa-user-dashboard.git
    cd nykaa-user-dashboard
    
-2. Create a virtual environment
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+2. Create a virtual environment:
+   - python -m venv venv
+   - source venv/bin/activate  # On Windows: venv\Scripts\activate
    
-3. Install dependencies
-   pip install -r requirements.txt
+3. Install dependencies:
+   - pip install -r requirements.txt
    
-4. Run the backend (FastAPI)
-   cd backend
-   uvicorn main:app --reload
+4. Run the backend (FastAPI):
+   - cd backend
+   - uvicorn main:app --reload
    
-5. Run the frontend (Streamlit)
-   cd frontend
-   streamlit run app.py
+5. Run the frontend (Streamlit):
+   - cd frontend
+   - streamlit run app.py
 
 # Demo Screenshots
 
-1. Login Screen
-   
+1. Login Screen:
+   - "D:\DataAnalysisProject\env\fastapi_app\env.local\Screenshot 2025-05-14 195339.png"
+
+2. User Management:
+   - "D:\DataAnalysisProject\env\fastapi_app\env.local\Screenshot 2025-05-14 195545.png"
+
+3. User Statistics:
+   - "D:\DataAnalysisProject\env\fastapi_app\env.local\Screenshot 2025-05-14 195614.png"
+
    
 
 
