@@ -11,7 +11,7 @@ This is a full-stack **User Management Dashboard** developed for **Nykaa**, buil
 # Authentication & Security
 - Email + Password-based login
 - JWT Token Authentication
-- Session timeout (5 minutes inactivity)
+- Session timeout (10 minutes inactivity)
 
 # User Management (CRUD)
 - Create, Read, Update, Delete (CRUD) operations for users
